@@ -1,0 +1,14 @@
+1. Download VPN  https://tech.msu.edu/network/network-systems/firewalls-vpn/ (Google "MSU VPN" for link)
+
+2. Sign In (Will need Symantec VIP app)
+
+3. Open Remove Desktop
+
+4. Computer: magellan.geo.msu.edu
+
+5. Username: Provideded by TA
+
+6. Password: Provided by TA.
+
+7.  For ArcPro you can purchase a license for use for $1 from the tech store:  
+	https://techstore.msu.edu/esri-installation-installation-and-use-information
